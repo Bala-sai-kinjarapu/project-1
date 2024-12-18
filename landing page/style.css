@@ -1,0 +1,72 @@
+video{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    opacity: 70%;
+}
+.Landing{
+    background-size: 100%;
+    height: 100vh;
+}
+.heading{
+    position:absolute;
+    top: 0;
+    left: 23%;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 25px;
+    color:black;
+    
+}
+.para{
+    text-wrap:balance;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+}
+
+button{
+    position: absolute;
+    top:80% ;
+    margin-left: 35%;
+    margin-right: 45%;
+    background-color: green;
+    color: black;
+    border-radius: 25px;
+    padding: 8px 35px;
+    cursor: pointer;
+}
+.Home{
+    position: absolute;
+    top: 9px;
+    margin-left: 10%;
+    margin-right:10% ;
+    background-color: gray;
+    color:white;
+    border-radius: 25px;
+    padding: 8px 35px;
+    cursor: pointer;
+}
+.Home:hover{
+    background-color: green;
+    border-radius: 20px;
+    
+}
+.Home:active{
+    background-color: red;
+}
+.aboutus{
+    position: absolute;
+    top: 9px;;
+    left: 75%;
+    margin-left: 10%;
+    margin-right: 5%;
+    background-color: gray;
+    color:white;
+    border-radius: 25px;
+    padding: 8px 35px;
+    cursor: pointer;
+}
