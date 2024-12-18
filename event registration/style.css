@@ -88,12 +88,113 @@ fieldset{
     background-color: blue;
     width: 50px;
 }
-#line4{
+#line7{
     position: absolute;
     top: 21.5%;
-    rotate: 24deg;
+    rotate: 60deg;
     margin-left: 20.5%;
     height: 1px;
     background-color: blue;
     width: 50px;
 }
+#line8{
+    position: absolute;
+    top: 21.5%;
+    rotate: 74deg;
+    margin-left: 20.5%;
+    height: 1px;
+    background-color: blue;
+    width: 50px;
+}
+#line9{
+    position: absolute;
+    top: 21.5%;
+    rotate: -12deg;
+    margin-left: 20.5%;
+    height: 1px;
+    background-color: blue;
+    width: 50px;
+}
+#line10{
+    position: absolute;
+    top: 21.5%;
+    rotate: -24deg;
+    margin-left: 20.5%;
+    height: 1px;
+    background-color: blue;
+    width: 50px;
+}
+#line11{
+    position: absolute;
+    top: 21.5%;
+    rotate: -36deg;
+    margin-left: 20.5%;
+    height: 1px;
+    background-color: blue;
+    width: 50px;
+}
+#line12{
+    position: absolute;
+    top: 21.5%;
+    rotate: -48deg;
+    margin-left: 20.5%;
+    height: 1px;
+    background-color: blue;
+    width: 50px;
+}
+#line13{
+    position: absolute;
+    top: 21.5%;
+    rotate: -60deg;
+    margin-left: 20.5%;
+    height: 1px;
+    background-color: blue;
+    width: 50px;
+}
+#line14{
+    position: absolute;
+    top: 21.5%;
+    rotate: -74deg;
+    margin-left: 20.5%;
+    height: 1px;
+    background-color: blue;
+    width: 50px;
+}
+.pole{
+    position: absolute;
+    background-color: brown;
+    width: 5px;
+    height: 500px;
+    top: 12%;
+    margin-left: 14.5%;
+    border: 1px solid black;
+}
+.post{
+    border: 1px solid black;
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 79.5%;
+    margin-left: 11.2%;
+    border-radius: 8px;
+}
+.post1{
+    border: 1px solid black;
+    width: 150px;
+    height: 30px;
+    position: absolute;
+    top: 83.1%;
+    margin-left: 9.6%;
+    border-radius: 8px;
+    background-color: white;
+}
+ .post2{
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    top: 86.8%;
+    margin-left: 7.9%;
+    border-radius: 8px;
+    background-color: white;
+} 
